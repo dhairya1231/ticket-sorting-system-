@@ -1,2 +1,3 @@
 .env
 twcs.csv
+chroma_db/
