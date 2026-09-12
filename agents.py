@@ -37,4 +37,4 @@ vector_store = Chroma.from_documents(
     persist_directory="./chroma_db",
 )
 
-print("Stored in Chroma at ./chroma_db")
+print("Stored in Chroma at ./chroma_db")=0-9po[8]
